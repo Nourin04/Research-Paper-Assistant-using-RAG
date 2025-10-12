@@ -73,11 +73,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-> If `requirements.txt` is not present, install manually:
 
-```bash
-pip install streamlit fitz langchain langchain-groq langchain-embeddings langchain-community chroma sentence-transformers python-dotenv
-```
 
 ### 4. Setup API Keys
 
