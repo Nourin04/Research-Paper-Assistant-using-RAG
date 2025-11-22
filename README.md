@@ -44,7 +44,6 @@ The project uses **LangChain** for the RAG pipeline, **HuggingFace embeddings** 
 
 ```bash
 git clone <repository-url>
-cd rag_research_assistant
 ```
 
 ### 2. Create a virtual environment
