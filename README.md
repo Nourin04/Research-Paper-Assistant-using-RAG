@@ -43,7 +43,7 @@ The project uses **LangChain** for the RAG pipeline, **HuggingFace embeddings** 
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/Nourin04/Research-Paper-Assistant-using-RAG)
+git clone https://github.com/Nourin04/Research-Paper-Assistant-using-RAG
 ```
 
 ### 2. Create a virtual environment
